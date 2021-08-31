@@ -33,6 +33,11 @@ Rethinking the competition between detection and ReID in Multi-Object Tracking
 
 https://arxiv.org/pdf/2010.12138.pdf
 
+Monocular Quasi-Dense 3D Object Tracking
+
+https://arxiv.org/pdf/2103.07351v1.pdf
+
+
 ### 多摄像头多目标追踪
 
 Towards a Principled Integration of Multi-Camera Re-Identification and Tracking through Optimal Bayes Filters
