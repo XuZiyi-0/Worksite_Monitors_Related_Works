@@ -135,5 +135,5 @@ https://github.com/asuradayuci/awesome_video_person_reid
 https://github.com/NEU-Gou/awesome-reid-dataset
 
 
-## 人体姿态关键点检测 pose estimation
+## 人体姿态关键点检测 Pose Estimation
 https://zhuanlan.zhihu.com/p/69042249
