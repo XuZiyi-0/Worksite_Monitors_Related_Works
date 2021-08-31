@@ -1,7 +1,7 @@
 # Worksite_Monitors_Related_Works
 
 
-## 多目标追踪
+## 多目标追踪 Multi Object Tracking
 ### 综述
 Multiple Object Tracking: A Literature Review
 
@@ -56,7 +56,7 @@ https://arxiv.org/pdf/1803.10859.pdf
 
 https://github.com/nightmaredimple/Multi-object-Tracking-paper-code-list/blob/master/README.md
 
-## ReID
+## 重识别 Re-identification 
 
 ### 综述
 Person Re-identification: Past, Present and Future
@@ -67,7 +67,7 @@ Deep Learning for Person Re-identification: A Survey and Outlook
 
 https://arxiv.org/pdf/2001.04193.pdf
 
-### 图像行人重识别
+### 图像行人重识别 
 
 Learning Discriminative Features with Multiple Granularities for Person Re-Identification
 
@@ -135,5 +135,5 @@ https://github.com/asuradayuci/awesome_video_person_reid
 https://github.com/NEU-Gou/awesome-reid-dataset
 
 
-## 人体姿态关键点检测
+## 人体姿态关键点检测 pose estimation
 https://zhuanlan.zhihu.com/p/69042249
